@@ -19,13 +19,14 @@ h1 {
     font-style: italic;
     float: center;
     text-align: center;
-    font-size: 100pt;
+    font-size: 80pt;
+    
 }
 
 h2 {
     color:rgb(182, 65, 65);
     margin-top: -5pt;
-    margin-bottom: -30pt;
+    margin-bottom: -45pt;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
     float: center;
@@ -56,8 +57,8 @@ input {
     margin-top:-20%;
     padding-top: .2%;
     margin-right: 2%;
-    height: 4%;
-    width: 4.5%;
+    height: 25px;
+    width: 100px;
     margin-bottom:2%;
     font-size: 24pt;
 }
@@ -68,8 +69,7 @@ label {
     font-style: italic;
     font-style: bold;
     padding-right: 1%;
-    font-size: 15pt;
-
+    font-size: 21pt;
 }
 
 .image {
